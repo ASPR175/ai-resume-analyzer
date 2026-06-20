@@ -2,7 +2,7 @@
 
 AI-powered resume analysis SaaS. Users buy credits, upload their resume as a PDF, and get an instant AI-generated score with section-by-section feedback and prioritized improvements.
 
-**Live demo:** [Resume Analyzer](https://ai-resume-analyzer-aspr175-e9uk4t964-aspr175s-projects.vercel.app)
+**Live demo:** [Resume Analyzer](https://ai-resume-analyzer-aspr175.vercel.app)
 
 ## How it works
 
